@@ -1,4 +1,4 @@
-// Canvas Asteroids
+// Canvas Asteroids hello
 //
 // Copyright (c) 2010 Doug McInnes
 //
